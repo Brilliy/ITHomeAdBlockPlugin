@@ -1,0 +1,2 @@
+# ITHomeAdBlockPlugin
+屏蔽it之家广告条目的tampermonkey脚本
